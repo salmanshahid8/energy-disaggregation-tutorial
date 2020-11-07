@@ -1,0 +1,9 @@
+git init
+
+git remote add origin https://github.com/salmanshahid8/energy-disaggregation-tutorial.git
+
+git add .
+
+git commit -m ""
+
+git push -u origin master
